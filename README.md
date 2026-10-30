@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=36D399&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vyshnavi;Building+GenAI+%26+Agent+Systems;Learning+by+shipping+daily" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=36D399&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vyshnavi;Building+GenAI+%26+Agent+Systems" alt="Typing intro" />
 </h1>
 
 ---
@@ -7,7 +7,7 @@
 ### 👋 I'm Vyshnavi
 
 ![Generative AI](https://img.shields.io/badge/GENERATIVE_AI-4CAF50?style=for-the-badge&logo=openai&logoColor=white)
-![Agent Engineer](https://img.shields.io/badge/AGENT_ENGINEER-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI&ML Engineer](https://img.shields.io/badge/AI&ML_ENGINEER-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_SYSTEMS-F5A623?style=for-the-badge)
 
 Aspiring AI engineer . I learn by building and ship a hands-on project.
