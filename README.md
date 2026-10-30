@@ -7,16 +7,18 @@
 ### 👋 I'm Vyshnavi
 
 ![Generative AI](https://img.shields.io/badge/GENERATIVE_AI-4CAF50?style=for-the-badge&logo=openai&logoColor=white)
-![AI&ML Engineer](https://img.shields.io/badge/AI&ML_ENGINEER-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI&ML Engineer](https://img.shields.io/badge/AI%26ML_ENGINEER-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_SYSTEMS-F5A623?style=for-the-badge)
 
-Aspiring AI engineer . I learn by building and ship a hands-on project.
+Aspiring AI engineer. I learn by building and ship hands-on projects.
 
 ### 🌟 Projects
 
-| | | |
-|---|---|---|
-| 🎙️ [**AI Meeting Assistant**](https://github.com/vyshnavi_pusarla/video_agent) | 📚 
+| Project | What it does |
+|---|---|
+| 🎙️ [**AI Meeting Assistant**](https://github.com/vyshnavipusarla/video_agent) | Transcribes meetings with Whisper, generates summaries with LangChain and Groq, and lets you chat with the transcript using ChromaDB RAG. Streamlit UI with PDF/TXT export. |
+| 🗺️ [**Course Roadmap Generator**](https://github.com/vyshnavipusarla/course-roadmap-2) | Turns any course or topic into a staged learning roadmap with YouTube videos, exercises, projects, and certifications. |
+
 ### 📊 Techstack
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
